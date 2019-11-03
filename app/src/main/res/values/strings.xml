@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ChatBot_Proyecto_POO</string>
+    //Falta agregar la api
+    <string name="chatBot_api"></string>
 </resources>
